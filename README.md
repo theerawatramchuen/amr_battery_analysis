@@ -8,5 +8,5 @@
 ![Pickup-Destination_Task_Frequency_Heatmap](https://github.com/user-attachments/assets/8bdcb959-f59e-4357-8e3e-b1e75b24ca8b)
 ![canceled_trips_heatmap](https://github.com/user-attachments/assets/9ff69850-c03f-455c-b42d-f115ae911b52)
 ![completed_trips_heatmap](https://github.com/user-attachments/assets/14e20d78-5783-4da3-abc2-5633598a63f0)
-## Create GUI Robot Status Monitoring with log file
+## GUI Robot Status Monitoring with log file
 ![Clipboard01](https://github.com/user-attachments/assets/1ff5a9fb-7b32-425f-a891-974368aad3ce)
