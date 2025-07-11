@@ -10,3 +10,7 @@
 ![completed_trips_heatmap](https://github.com/user-attachments/assets/14e20d78-5783-4da3-abc2-5633598a63f0)
 ## GUI Robot Status Monitoring with log file
 ![Clipboard01](https://github.com/user-attachments/assets/1ff5a9fb-7b32-425f-a891-974368aad3ce)
+## Robot Status Chart
+<img width="1200" height="715" alt="image" src="https://github.com/user-attachments/assets/247e8244-1440-4489-8639-6e38277fe449" />
+<img width="1370" height="715" alt="image" src="https://github.com/user-attachments/assets/37adbabb-2024-440d-b689-ac62f6d18f73" />
+
